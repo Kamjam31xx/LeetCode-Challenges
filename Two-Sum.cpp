@@ -30,6 +30,11 @@
     Only one valid answer exists.
 */
 
+/*
+Runtime: 148 ms, faster than 36.28% of C++ online submissions for Two Sum.
+Memory Usage: 10.1 MB, less than 84.27% of C++ online submissions for Two Sum.
+*/
+
 // This passes leetcode testing but adds and compares numbers after removing their sign
 // so i opened an issue and am waiting for them to tell me im stupid or add a test case 
 

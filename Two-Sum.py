@@ -30,6 +30,11 @@
     Only one valid answer exists.
 '''
 
+'''
+Runtime: 2912 ms, faster than 38.84% of Python online submissions for Two Sum.
+Memory Usage: 14.4 MB, less than 25.67% of Python online submissions for Two Sum.
+'''
+
 
 class Solution(object):
     def twoSum(self, nums, target):
